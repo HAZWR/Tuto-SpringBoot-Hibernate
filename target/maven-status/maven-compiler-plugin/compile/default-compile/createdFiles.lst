@@ -1,0 +1,7 @@
+com/example/demo/DemoApplication.class
+com/example/demo/model/Vehicule.class
+com/example/demo/service/VehiculeService.class
+com/example/demo/exception/CustomMappingException.class
+com/example/demo/repository/VehiculeRepository.class
+com/example/demo/controller/VehiculeController.class
+com/example/demo/exception/VehiculeNotFoundException.class
